@@ -4,7 +4,7 @@
 
 Bu fizibilite raporu, Baker Haritası'nın uygulanabilirliği, kullanım alanları ve teknik detaylarını incelemektedir. Baker Haritası, kaotik sistemler teorisinde önemli bir rol oynar ve birim kare içindeki noktaların nasıl dönüştürüldüğünü gösterir. Bu rapor, Baker Haritası'nın potansiyel kullanımlarını ve bir uygulamanın geliştirilmesi için teknik gereksinimleri tartışmaktadır.
 
-### Tanım
+### Giriş
 
 Baker Haritası, kaotik dinamik sistemlerin ve karmaşık yapıların anlaşılmasında kullanılan matematiksel bir modeldir. Birim kare içindeki herhangi bir noktanın konumunu alır ve belirli bir dönüşüm işlemine tabi tutar. Bu işlem, noktaların birbirleriyle karışmasını sağlar ve karmaşık kaotik davranışları gösterir. Bu harita, hamur yoğurma işlemine benzetilerek adlandırılmıştır, çünkü işlem sırasında hamurun nasıl katlandığını ve uzadığını görselleştirmek, Baker haritasının dinamiklerini anlamaya yardımcı olabilir.
 
@@ -14,6 +14,7 @@ Baker Haritası, kaotik dinamik sistemlerin ve karmaşık yapıların anlaşılm
 ![enter image description here](https://wikimedia.org/api/rest_v1/media/math/render/svg/f57c87dcfd5b45c8fc15c4e68b2e7146da84d2f5)
 
 Bu işlem, birim karenin yatay olarak ikiye katlanıp dikey olarak sıkıştırılarak tekrar birim kare içine yerleştirilmesi gibi düşünülebilir. Bu süreç, kaotik sistemlerde görülen tipik "karıştırma" davranışını matematiksel olarak modellemek için kullanılır.
+
 ![Baker map gif](https://upload.wikimedia.org/wikipedia/commons/8/8c/Baker%27s_map_mixing.gif)
 
 ### Kullanım Alanları ve Önemi
@@ -46,3 +47,7 @@ Baker haritası ve benzeri kaotik haritalar, başlangıç koşullarına duyarlı
  - **Güvenlik Tehlikeleri:** Baker Haritası'nın kullanıldığı veri şifreleme ve gizleme uygulamalarında güvenlik tehditleri bulunabilir. Başlangıç koşullarının ve parametrelerin güvenliği, uygulama güvenliği için kritik öneme sahiptir.
 
 ## Sonuç
+
+- Baker Haritası, basit yapısı, kaotik davranışları modelleme yeteneği ve çeşitli kullanım alanları ile önemli bir araçtır.
+- Baker Haritası, kaotik sistemlerin analizi ve modellemesi için güçlü bir araçtır.
+- Uygulanabilirliği geniştir ve birçok alanda kullanılabilir.
